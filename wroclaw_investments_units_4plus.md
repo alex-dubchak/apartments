@@ -1,6 +1,6 @@
 # Otodom — inwestycje → lokale (≥4 pokoje)
 
-Kryteria: **≥75 m²**, **≤ 1100000 zł**, **≥4 pokoje**.
+Kryteria: **≥70 m²**, **≤ 1100000 zł**, **≥4 pokoje**.
 
 Dodatkowo: wymagane słowa kluczowe w tytule lokalu: **balkon/loggia/ogr(o)dek**.
 
@@ -8,13 +8,27 @@ Uwaga: lokale z ceną ukrytą / **"Zapytaj o cenę"** są uwzględniane, ale wte
 
 Cel nawigacji (Google Maps, auto): **Rynek Główny, Wroclaw**
 
-Filtr wstępny po inwestycjach: **min. cena za m² ≤ 14666.67 zł/m²** (wynika z 1100000 zł / 75 m²).
+Filtr wstępny po inwestycjach: **min. cena za m² ≤ 15714.29 zł/m²** (wynika z 1100000 zł / 70 m²).
 
 Źródła URL(i) inwestycji:
 
 Intermediate JSONL: Wroclaw/2026-03-05/intermediate/eligible.jsonl
 
-Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dopasowanymi lokalami: **20**.
+Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dopasowanymi lokalami: **26**.
+
+## Osiedle Startowe
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/osiedle-startowe-ID4xmdp
+- Min. cena za m² (z HTML): 11 278 zł/m²
+- Deweloper: RONSON DEVELOPMENT
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/ronson-development-ID10556616
+- Strona www: https://ronson.pl/inwestycja/osiedle-startowe/
+- investment_id (do API): 67055567
+- Lokalizacja (koord): 51.158548,17.143322
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.158548%2C17.143322&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **2**
+
+- [4-pokojowe mieszkanie 73m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-73m2-balkon-bez-prowizji-ID4xmf0) — cena: 886 512 zł, pow.: 73.78 m², cena/m²: 12 016 zł/m², pokoje: 4, piętro: floor_6
+- [4-pokojowe mieszkanie 73m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-73m2-balkon-bez-prowizji-ID4xmf1) — cena: 894 499 zł, pow.: 73.78 m², cena/m²: 12 124 zł/m², pokoje: 4, piętro: floor_7
 
 ## Przy Parku Vita
 - Inwestycja: https://www.otodom.pl/pl/inwestycja/przy-parku-vita-ID4xrPh
@@ -25,8 +39,9 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 67077135
 - Lokalizacja (koord): 51.081524,17.070012
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.081524%2C17.070012&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **9**
+- Lokale spełniające kryteria: **10**
 
+- [4-pokojowe mieszkanie 71m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-balkon-ID4xrPI) — cena: Zapytaj o cenę, pow.: 71.02 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 76m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-balkon-bezposrednio-ID4xJcB) — cena: Zapytaj o cenę, pow.: 76.67 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 76m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-balkon-ID4xJcP) — cena: Zapytaj o cenę, pow.: 76.67 m², cena/m²: —, pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 78m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-78m2-2-balkony-ID4xrQ6) — cena: Zapytaj o cenę, pow.: 78.96 m², cena/m²: —, pokoje: 4, piętro: floor_1
@@ -46,8 +61,11 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66337919
 - Lokalizacja (koord): 51.062755,17.022716
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.062755%2C17.022716&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **4**
+- Lokale spełniające kryteria: **7**
 
+- [4-pokojowe mieszkanie 71m2 + ogródek Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-ogrodek-bez-prowizji-ID4A4gl) — cena: Zapytaj o cenę, pow.: 71.34 m², cena/m²: —, pokoje: 4, piętro: ground_floor
+- [4-pokojowe mieszkanie 73m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-73m2-ogrodek-ID4umm8) — cena: Zapytaj o cenę, pow.: 73.09 m², cena/m²: —, pokoje: 4, piętro: ground_floor
+- [4-pokojowe mieszkanie 73m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-73m2-ogrodek-ID4A4gk) — cena: Zapytaj o cenę, pow.: 73.09 m², cena/m²: —, pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 75m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-balkon-ID4umgq) — cena: Zapytaj o cenę, pow.: 75.23 m², cena/m²: —, pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 75m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-balkon-ID4A4gI) — cena: Zapytaj o cenę, pow.: 75.63 m², cena/m²: —, pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 85m2 + loggia Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-85m2-loggia-bezposrednio-ID4A4gt) — cena: Zapytaj o cenę, pow.: 85.25 m², cena/m²: —, pokoje: 4, piętro: floor_1
@@ -62,8 +80,12 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66337925
 - Lokalizacja (koord): 51.135193,16.925979
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.135193%2C16.925979&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **1**
+- Lokale spełniające kryteria: **5**
 
+- [4-pokojowe mieszkanie 74m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-ID4ulCC) — cena: Zapytaj o cenę, pow.: 74.68 m², cena/m²: —, pokoje: 4, piętro: floor_4
+- [4-pokojowe mieszkanie 74m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-bez-prowizji-ID4um11) — cena: Zapytaj o cenę, pow.: 74.68 m², cena/m²: —, pokoje: 4, piętro: floor_5
+- [4-pokojowe mieszkanie 74m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-ID4um1n) — cena: Zapytaj o cenę, pow.: 74.68 m², cena/m²: —, pokoje: 4, piętro: floor_6
+- [4-pokojowe mieszkanie 74m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-bezposrednio-ID4ulEd) — cena: Zapytaj o cenę, pow.: 74.68 m², cena/m²: —, pokoje: 4, piętro: floor_7
 - [4-pokojowe mieszkanie 75m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-balkon-bez-prowizji-ID4um0L) — cena: Zapytaj o cenę, pow.: 75.63 m², cena/m²: —, pokoje: 4, piętro: floor_1
 
 ## Piękna Vita
@@ -92,9 +114,11 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 67365796
 - Lokalizacja (koord): 51.126962,17.039809
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.126962%2C17.039809&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **2**
+- Lokale spełniające kryteria: **4**
 
+- [4-pokojowe mieszkanie 74m2 + ogródek Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-ogrodek-bezposrednio-ID4yEVh) — cena: 971 292 zł, pow.: 74.69 m², cena/m²: 13 004 zł/m², pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 77m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-77m2-2-balkony-ID4yEX9) — cena: 1 071 979 zł, pow.: 77.00 m², cena/m²: 13 922 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 73m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-73m2-2-balkony-ID4yEYf) — cena: 1 092 891 zł, pow.: 73.35 m², cena/m²: 14 900 zł/m², pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 76m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-2-balkony-ID4yEXr) — cena: 1 097 914 zł, pow.: 76.67 m², cena/m²: 14 320 zł/m², pokoje: 4, piętro: floor_1
 
 ## Inwestycja Deweloperska Na Przedmieściach
@@ -141,8 +165,9 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66724943
 - Lokalizacja (koord): 51.049602,17.086593
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.049602%2C17.086593&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **3**
+- Lokale spełniające kryteria: **4**
 
+- [4-pokojowe mieszkanie 72m2 + ogródek Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-ogrodek-bez-prowizji-ID4wYeG) — cena: 797 160 zł, pow.: 72.80 m², cena/m²: 10 950 zł/m², pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 83m2 + ogródek Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-83m2-ogrodek-bez-prowizji-ID4wYey) — cena: 918 365 zł, pow.: 83.11 m², cena/m²: 11 050 zł/m², pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 86m2 + ogródek Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-86m2-ogrodek-bezposrednio-ID4wYeQ) — cena: 943 999 zł, pow.: 86.21 m², cena/m²: 10 950 zł/m², pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 86m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-86m2-ogrodek-ID4wYer) — cena: 944 328 zł, pow.: 86.24 m², cena/m²: 10 950 zł/m², pokoje: 4, piętro: floor_1
@@ -156,8 +181,9 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66316418
 - Lokalizacja (koord): 51.050890,17.086733
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.050890%2C17.086733&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **7**
+- Lokale spełniające kryteria: **8**
 
+- [4-pokojowe mieszkanie 70m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-ID4ufVa) — cena: 723 163 zł, pow.: 70.21 m², cena/m²: 10 300 zł/m², pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 76m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-balkon-bezposrednio-ID4zWrE) — cena: 798 735 zł, pow.: 76.07 m², cena/m²: 10 500 zł/m², pokoje: 4, piętro: floor_2
 - [5-pokojowe mieszkanie 80m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/5-pokojowe-mieszkanie-80m2-balkon-bez-prowizji-ID4zWrB) — cena: 842 415 zł, pow.: 80.23 m², cena/m²: 10 500 zł/m², pokoje: 5, piętro: floor_2
 - [5-pokojowe mieszkanie 80m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/5-pokojowe-mieszkanie-80m2-balkon-bez-prowizji-ID4zWrw) — cena: 842 415 zł, pow.: 80.23 m², cena/m²: 10 500 zł/m², pokoje: 5, piętro: floor_2
@@ -175,8 +201,10 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66326116
 - Lokalizacja (koord): 51.133335,16.924533
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.133335%2C16.924533&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **13**
+- Lokale spełniające kryteria: **15**
 
+- [4-pokojowe mieszkanie 71m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-ogrodek-ID4ujhk) — cena: Zapytaj o cenę, pow.: 71.51 m², cena/m²: —, pokoje: 4, piętro: ground_floor
+- [4-pokojowe mieszkanie 71m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-2-balkony-ID4ujif) — cena: Zapytaj o cenę, pow.: 71.51 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 76m2 + ogródek Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-ogrodek-bez-prowizji-ID4ujhl) — cena: Zapytaj o cenę, pow.: 76.10 m², cena/m²: —, pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 76m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-2-balkony-ID4ujzP) — cena: Zapytaj o cenę, pow.: 76.10 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 76m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-76m2-2-balkony-ID4ujin) — cena: Zapytaj o cenę, pow.: 76.10 m², cena/m²: —, pokoje: 4, piętro: floor_1
@@ -190,6 +218,19 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - [4-pokojowe mieszkanie 77m2 + 3 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-77m2-3-balkony-ID4ujhy) — cena: Zapytaj o cenę, pow.: 77.73 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 77m2 + 3 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-77m2-3-balkony-ID4ujzG) — cena: Zapytaj o cenę, pow.: 77.73 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 79m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-79m2-ogrodek-ID4ujqP) — cena: Zapytaj o cenę, pow.: 79.32 m², cena/m²: —, pokoje: 4, piętro: ground_floor
+
+## Buraczana 27
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/buraczana-27-ID4zFct
+- Min. cena za m² (z HTML): 12 899 zł/m²
+- Deweloper: NARNIA APARTAMENTY Sp. z o.o.
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/narnia-apartamenty-sp-z-o-o-ID11495139
+- Strona www: https://www.narniadeweloper.pl/buraczana27/
+- investment_id (do API): 67605201
+- Lokalizacja (koord): 51.065731,16.977720
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.065731%2C16.977720&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **1**
+
+- [4-pokojowe mieszkanie 72m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-balkon-bez-prowizji-ID4zFcw) — cena: 929 183 zł, pow.: 72.03 m², cena/m²: 12 900 zł/m², pokoje: 4, piętro: floor_1
 
 ## Podhalańska Vita
 - Inwestycja: https://www.otodom.pl/pl/inwestycja/podhalanska-vita-ID4zryH
@@ -205,6 +246,19 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - [4-pokojowe mieszkanie 84m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-84m2-balkon-bez-prowizji-ID4zryI) — cena: Zapytaj o cenę, pow.: 84.50 m², cena/m²: —, pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 84m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-84m2-balkon-ID4zrz3) — cena: Zapytaj o cenę, pow.: 84.50 m², cena/m²: —, pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 84m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-84m2-balkon-bezposrednio-ID4zrzv) — cena: Zapytaj o cenę, pow.: 84.50 m², cena/m²: —, pokoje: 4, piętro: floor_3
+
+## Krakowskie Tarasy V
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/krakowskie-tarasy-v-ID4ul3Y
+- Min. cena za m² (z HTML): 12 049 zł/m²
+- Deweloper: IMS Budownictwo
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/ims-budownictwo-ID10556278
+- Strona www: https://krakowskie-tarasy.pl/etap5/
+- investment_id (do API): 66336154
+- Lokalizacja (koord): 51.090978,17.064881
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.090978%2C17.064881&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **1**
+
+- [4-pokojowe mieszkanie 71m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-balkon-ID4ul4c) — cena: 967 940 zł, pow.: 71.38 m², cena/m²: 13 560 zł/m², pokoje: 4, piętro: floor_1
 
 ## Nowe Centrum Południowe
 - Inwestycja: https://www.otodom.pl/pl/inwestycja/nowe-centrum-poludniowe-ID4u9wo
@@ -228,12 +282,55 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 66326147
 - Lokalizacja (koord): 51.120365,16.914503
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.120365%2C16.914503&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **4**
+- Lokale spełniające kryteria: **11**
 
+- [4-pokojowe mieszkanie 71m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-balkon-bez-prowizji-ID4uj8K) — cena: 809 841 zł, pow.: 71.13 m², cena/m²: 11 385 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 71m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-balkon-ID4uj7B) — cena: 809 841 zł, pow.: 71.13 m², cena/m²: 11 385 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 72m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-2-balkony-ID4uiMv) — cena: 831 584 zł, pow.: 72.70 m², cena/m²: 11 439 zł/m², pokoje: 4, piętro: floor_4
+- [4-pokojowe mieszkanie 72m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-2-balkony-ID4uiAw) — cena: 831 584 zł, pow.: 72.70 m², cena/m²: 11 439 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 72m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-2-balkony-ID4uiLY) — cena: 831 584 zł, pow.: 72.70 m², cena/m²: 11 439 zł/m², pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 75m2 + 2 ogródki](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-2-ogrodki-ID4uiyp) — cena: 854 353 zł, pow.: 75.17 m², cena/m²: 11 366 zł/m², pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 75m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-2-balkony-ID4uiyV) — cena: 863 152 zł, pow.: 75.44 m², cena/m²: 11 442 zł/m², pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 75m2 + 2 balkony](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-75m2-2-balkony-ID4uiKX) — cena: 863 152 zł, pow.: 75.44 m², cena/m²: 11 442 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 74m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-bez-prowizji-ID4uj9m) — cena: 874 313 zł, pow.: 74.33 m², cena/m²: 11 763 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 74m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-74m2-balkon-bezposrednio-ID4uj9q) — cena: 874 313 zł, pow.: 74.33 m², cena/m²: 11 763 zł/m², pokoje: 4, piętro: floor_2
 - [4-pokojowe mieszkanie 83m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-83m2-balkon-bezposrednio-ID4uiz4) — cena: 969 592 zł, pow.: 83.24 m², cena/m²: 11 648 zł/m², pokoje: 4, piętro: floor_1
+
+## Osiedle Contigo
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/osiedle-contigo-ID4uhLg
+- Min. cena za m² (z HTML): 11 273 zł/m²
+- Deweloper: Arkop Deweloper
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/arkop-deweloper-ID10553947
+- Strona www: https://arkop-deweloper.pl/inwestycje/osiedle-contigo/
+- investment_id (do API): 66323462
+- Lokalizacja (koord): 51.155638,17.125618
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.155638%2C17.125618&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **11**
+
+- [4-pokojowe mieszkanie 70m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bezposrednio-ID4uhN4) — cena: 801 140 zł, pow.: 70.94 m², cena/m²: 11 293 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 71m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-balkon-bezposrednio-ID4uhMU) — cena: 801 183 zł, pow.: 71.07 m², cena/m²: 11 273 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 70m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-ID4uhN6) — cena: 808 914 zł, pow.: 70.93 m², cena/m²: 11 404 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bezposrednio-ID4uhNi) — cena: 808 914 zł, pow.: 70.93 m², cena/m²: 11 404 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bez-prowizji-ID4uhNR) — cena: 808 914 zł, pow.: 70.93 m², cena/m²: 11 404 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bez-prowizji-ID4uhN8) — cena: 808 917 zł, pow.: 70.94 m², cena/m²: 11 403 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bezposrednio-ID4uhNp) — cena: 808 917 zł, pow.: 70.94 m², cena/m²: 11 403 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-ID4uhNB) — cena: 808 917 zł, pow.: 70.94 m², cena/m²: 11 403 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-ID4uhN9) — cena: 808 917 zł, pow.: 70.94 m², cena/m²: 11 403 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-bez-prowizji-ID4uhNo) — cena: 812 600 zł, pow.: 70.94 m², cena/m²: 11 455 zł/m², pokoje: 4, piętro: floor_2
+- [4-pokojowe mieszkanie 70m2 + balkon](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-balkon-ID4uhNS) — cena: 812 600 zł, pow.: 70.95 m², cena/m²: 11 453 zł/m², pokoje: 4, piętro: floor_2
+
+## Iwaszkiewicza, Krzyki, wysoki standard, klimatyzacja, rolety elektr.
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/iwaszkiewicza-krzyki-wysoki-standard-klimatyzacja-rolety-elektr-ID4wcpZ
+- Min. cena za m² (z HTML): 11 800 zł/m²
+- Deweloper: TM DEVELOPER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/tm-developer-spolka-z-ograniczona-odpowiedzialnoscia-ID10667617
+- Strona www: https://www.tmdeveloper.pl
+- investment_id (do API): 66541251
+- Lokalizacja (koord): 51.055595,17.038140
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.055595%2C17.038140&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **1**
+
+- [73,45 m2, apartament z antresolą, 2 balkonami i klimatyzacją](https://www.otodom.pl/pl/oferta/73-45-m2-apartament-z-antresola-2-balkonami-i-klimatyzacja-ID4wEoz) — cena: 866 710 zł, pow.: 73.45 m², cena/m²: 11 800 zł/m², pokoje: 4, piętro: floor_3
 
 ## Osiedle Lissa
 - Inwestycja: https://www.otodom.pl/pl/inwestycja/osiedle-lissa-ID4zTto
@@ -262,8 +359,10 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - investment_id (do API): 67613235
 - Lokalizacja (koord): 51.135358,16.920716
 - [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.135358%2C16.920716&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
-- Lokale spełniające kryteria: **2**
+- Lokale spełniające kryteria: **4**
 
+- [4-pokojowe mieszkanie 71m2 + ogródek](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-ogrodek-ID4zHjp) — cena: 921 500 zł, pow.: 71.16 m², cena/m²: 12 950 zł/m², pokoje: 4, piętro: ground_floor
+- [4-pokojowe mieszkanie 72m2 + ogródek Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-72m2-ogrodek-bez-prowizji-ID4zHkE) — cena: 940 400 zł, pow.: 72.02 m², cena/m²: 13 057 zł/m², pokoje: 4, piętro: ground_floor
 - [4-pokojowe mieszkanie 82m2 + loggia](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-82m2-loggia-ID4zHjZ) — cena: 994 600 zł, pow.: 82.17 m², cena/m²: 12 104 zł/m², pokoje: 4, piętro: floor_1
 - [4-pokojowe mieszkanie 82m2 + loggia Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-82m2-loggia-bezposrednio-ID4zHk0) — cena: 1 013 800 zł, pow.: 82.21 m², cena/m²: 12 332 zł/m², pokoje: 4, piętro: floor_2
 
@@ -279,6 +378,21 @@ Znalezione inwestycje na stronach: **83**, po filtrze ceny za m²: **83**, z dop
 - Lokale spełniające kryteria: **1**
 
 - [Gotowe 4-pokojowe mieszkanie 84m2 + balkon](https://www.otodom.pl/pl/oferta/gotowe-4-pokojowe-mieszkanie-84m2-balkon-ID4ulbt) — cena: 978 999 zł, pow.: 84.37 m², cena/m²: 11 604 zł/m², pokoje: 4, piętro: ground_floor
+
+## Nowe Żerniki Bieńkowskiego
+- Inwestycja: https://www.otodom.pl/pl/inwestycja/nowe-zerniki-bienkowskiego-ID4u9TT
+- Min. cena za m² (z HTML): 10 152 zł/m²
+- Deweloper: GRUPO ROSMARINO
+- Profil w Otodom: https://www.otodom.pl/pl/firmy/deweloperzy/grupo-rosmarino-ID10540646
+- Strona www: https://bienkowskiego.pl/
+- investment_id (do API): 66293245
+- Lokalizacja (koord): 51.135129,16.923664
+- [Mapa (auto)](https://www.google.com/maps/dir/?api=1&origin=51.135129%2C16.923664&destination=Rynek+G%C5%82%C3%B3wny%2C+Wroclaw&travelmode=driving)
+- Lokale spełniające kryteria: **3**
+
+- [4-pokojowe mieszkanie 70m2 + loggia Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-70m2-loggia-bezposrednio-ID4ua4T) — cena: 787 325 zł, pow.: 70.64 m², cena/m²: 11 146 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 71m2 + loggia Bez Prowizji](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-loggia-bez-prowizji-ID4ua5b) — cena: 797 133 zł, pow.: 71.52 m², cena/m²: 11 146 zł/m², pokoje: 4, piętro: floor_1
+- [4-pokojowe mieszkanie 71m2 + loggia Bezpośrednio](https://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-71m2-loggia-bezposrednio-ID4ua65) — cena: 797 133 zł, pow.: 71.52 m², cena/m²: 11 146 zł/m², pokoje: 4, piętro: floor_2
 
 ## Lokum Verde - gotowe mieszkania
 - Inwestycja: https://www.otodom.pl/pl/inwestycja/lokum-verde-gotowe-mieszkania-ID4ul8a
